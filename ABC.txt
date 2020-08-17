@@ -1,2 +1,3 @@
 Hello This is ABC
 This change should reflect in Git Demo 2
+Previous line is successful it should be reflected in git demo
