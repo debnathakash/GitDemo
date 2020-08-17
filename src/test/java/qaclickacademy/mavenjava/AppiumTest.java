@@ -7,5 +7,6 @@ public class AppiumTest {
 	@Test
 	public void mobile() {
 		System.out.println("uses for mobile automation");
+		System.out.println("Modefied by Asian Architect");
 	}
 }
